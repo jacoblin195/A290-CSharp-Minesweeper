@@ -1,0 +1,18 @@
+Basic Minesweeper Game
+
+A tile shows the number of mines in the nearby 3*3 area.
+Mark all mines as fast as possible to win the game. 
+left click to dig a tile;
+right click to mark or unmark a tile
+
+User may change the color theme or the difficulty level.
+
+easy mode - 8*8 10 mines
+medium 12*12 25 mines
+Hard 16*16 40 mines
+
+The game will create a local highscores.txt file to record history high scores.
+
+Do not manually change the content as the game will wipe off all data if the format does not match
+
+To clear history data, simply delete highscores.txt
